@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<collection>
+    <genre category="Action">
+        <decade years="1980s">
+            <movie favorite="True" title="Indiana Jones: The raiders of the lost Ark">
+                <format multiple="No">DVD</format>
+                <year>1981</year>
+                <rating>PG</rating>
+                <description>
+                'Archaeologist and adventurer Indiana Jones
+                is hired by the U.S. government to find the Ark of the
+                Covenant before the Nazis.'
+                </description>
+            </movie>
+        </decade>
+    </genre>
+</collection>
+<?xml version="1.0"?>
+<collection>
+    <genre category="Action">
+        <decade years="1981s">
+            <movie favorite="True" title="Indiana Jones: The raiders of the lost Ark">
+                <format multiple="No">DVD</format>
+                <year>1981</year>
+                <rating>PG</rating>
+                <description>
+                'Archaeologist and adventurer Indiana Jones
+                is hired by the U.S. government to find the Ark of the
+                Covenant before the Nazis.'
+                </description>
+            </movie>
+        </decade>
+    </genre>
+</collection>
+<?xml version="1.0"?>
+<collection>
+    <genre category="Action">
+        <decade years="1982s">
+            <movie favorite="True" title="Indiana Jones: The raiders of the lost Ark">
+                <format multiple="No">DVD</format>
+                <year>1981</year>
+                <rating>PG</rating>
+                <description>
+                'Archaeologist and adventurer Indiana Jones
+                is hired by the U.S. government to find the Ark of the
+                Covenant before the Nazis.'
+                </description>
+            </movie>
+        </decade>
+    </genre>
+</collection>
